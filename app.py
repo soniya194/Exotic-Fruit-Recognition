@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import numpy as np
 
-from tensorflow.keras.preprocessing.image import load_img, img_to_array
+
 
 
 #New_Fruit_model = load_model('Fruit_model.h5')
@@ -15,6 +15,7 @@ file = st.file_uploader("Please upload an Fruit image", type = ["jpg", "png"])
 
 def Predict(image):
   from keras.models import load_model
+  from tensorflow.keras.preprocessing.image import load_img, img_to_array
   # load the model
   New_Fruit_model = load_model('Fruit_model.h5')
   
