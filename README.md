@@ -5,7 +5,7 @@ Nowadays in supermarkets you see variety of fruits, and also a seperate section 
   2. Where does it come from?
   3. How it tastes and about its texture and so on....
 
-Keeping this in mind a Exotic fruit recognition model is created which takes the image of the fruit and predicts whether it is a exotic fruit or not. To start with 4 types of exotic fruits have been chosen and they are Kaki, Cherimoya, Rambutan and Mangosteen. The tools used are Tensorflow, Keras and google colab.
+Keeping this in mind a Exotic fruit recognition model is created which takes the image of the fruit and predicts whether it is a exotic fruit or not, and which exotic fruit it might be. To start with 4 types of exotic fruits have been chosen and they are Kaki, Cherimoya, Rambutan and Mangosteen. The tools used are Tensorflow, Keras and google colab.
 
 ## Collecting Data
 Data is been collected by downloading the images from Flickr using api's and then labelling them. The images are then pre processed accorcing to the model requirements. Due to scarcity of images to run the model Data Augmention is done.
