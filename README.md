@@ -1,7 +1,7 @@
 # Exotic-Fruit-Recognition
 ## Summary
 Nowadays in supermarkets you see variety of fruits, and also a seperate section for exotic fruits. Many questions pop up in mind as you glance them. For eg:
-  1. What is the name?
+  1. What is the name of the fruit?
   2. Where is it from?
   3. How it tastes and about its texture and so on....
 
