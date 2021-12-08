@@ -15,6 +15,6 @@ A Neural Network model is built along with a Pre-trained convolutional neural ne
 
 ## Conclusion
 As the test accuracy of the model not more than 95%, it can be improved by fine tuning the hyperparameters. To deploy the model as a web app is in progress.
-Futher changes can be done by adding more number of exoic fruit classes and also a short description of the fruit like its origin, nutritional values, how it can be used in various cuisines.
+Futher changes can be done by adding more number of exotic fruit classes and also a short description of the fruit like its origin, nutritional values, how it can be used in various cuisines.
 
 
